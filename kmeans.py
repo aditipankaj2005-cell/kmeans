@@ -9,7 +9,7 @@ Original file is located at
 <h1 align='center' style='color:purple'>Clustering With K Means - Python Tutorial</h1>
 """
 
-!pip install streamlit pyngrok
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
